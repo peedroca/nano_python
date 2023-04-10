@@ -1,2 +1,2 @@
-.......Pedro:         Pedro M 22
-.......Lucas:         Lucas A 22
+peedroca:['Pedro MOREIRA', 22]
+LuucasAugusto:['Lucas A', 22]

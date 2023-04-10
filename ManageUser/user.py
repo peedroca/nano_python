@@ -21,4 +21,4 @@ def save_on_file(filename, users):
 
     with open(filename + ".txt", "a") as file:
         for key, user in users.items():
-            file.write(key.rjust(12, ".") + ": " + user[0].rjust(15, " ") + " " + str(user[1]) + "\n")
+            file.write(key + ":" + str(user) + "\n")
